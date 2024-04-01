@@ -1,0 +1,1 @@
+/Users/stefano/Workspace/Work/encode/solana-bootcamp/encode-solana-bootcamp-exercises/week-1/day4/fizz_buzz/target/debug/fizz_buzz: /Users/stefano/Workspace/Work/encode/solana-bootcamp/encode-solana-bootcamp-exercises/week-1/day4/fizz_buzz/src/main.rs
